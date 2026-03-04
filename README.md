@@ -8,6 +8,7 @@ I don't trust random skills off the internet, and neither should you, so I have 
 |-------|-------------|
 | [nano-banana-pro](./nano-banana-pro/) | Image generation and editing via Google's Gemini image models |
 | [blender](./blender/) | Headless 3D modeling, rendering, and GLB export via Blender's bpy API |
+| [write-human](./write-human/) | Anti-AI-slop writing directive — 31 antipatterns to avoid, plus voice and craft guidance |
 
 ## How to Use
 
