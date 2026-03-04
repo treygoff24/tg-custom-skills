@@ -1,6 +1,6 @@
 # tg-custom-skills
 
-A collection of standalone AI agent skills. Each skill is a self-contained directory with instructions, scripts, and references that work with any agent harness — or no harness at all.
+I don't trust random skills off the internet, and neither should you, so I have been slowly rolling my own custom skills. This is a collection of them. Each skill is a self-contained directory with instructions, scripts, and references that work with any agent harness — or no harness at all.
 
 ## Available Skills
 
