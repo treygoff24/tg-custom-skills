@@ -7,6 +7,7 @@ I don't trust random skills off the internet, and neither should you, so I have 
 | Skill | Description |
 |-------|-------------|
 | [nano-banana-pro](./nano-banana-pro/) | Image generation and editing via Google's Gemini image models |
+| [blender](./blender/) | Headless 3D modeling, rendering, and GLB export via Blender's bpy API |
 
 ## How to Use
 
